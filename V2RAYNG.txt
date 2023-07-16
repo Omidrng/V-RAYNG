@@ -1,5 +1,9 @@
-vless://2fac0e66-13a0-443f-fd7a-8c0b027e4631@mci-MsV2ray.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@MsV2ray&sni=tm.MsV2ray.fun#%40omidnetworkk
-vless://channel-MsV2ray@65.21.245.85:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=@MsV2ray#%40omidnetworkk
-vless://2cd22529-b92a-40de-86c2-591d195a2d55@mtn.MsV2ray.space:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@MsV2ray&sni=tm.MsV2ray.cfd#%40omidnetworkk
-vless://2fac0e66-13a0-443f-fd7a-8c0b027e4632@mtn2.MsV2ray.space:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@MsV2ray&sni=tm.MsV2ray.fun#%40omidnetworkk
-vless://eb064b81-abae-4749-9d23-5778f57cea10@104.31.16.65:2053?path=%2F&security=tls&encryption=none&host=tel.RxV2ray.cfd&type=ws&sni=tel.RxV2ray.cfd#%40omidnetworkk
+vmess://eyJhZGQiOiIxODUuMTQ2LjE3My4yMCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJmNmNmZGYxNS03NDUyLTQ4YmItODlmMi1hMzRmYTk3NTM5NzMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwOTYiLCJwcyI6IkBvbWlkbmV0d29ya2siLCJzY3kiOiJhdXRvIiwic25pIjoiYS5ib3JlZGhvdC5jbG91ZCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+trojan://telegram-id-directvpn@3.15.198.234:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40omidnetworkk
+vless://7cd22529-b92a-40de-86c2-591d195a2d55@104.31.16.144:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@MsV2ray&sni=tm.MsV2ray.cfd#%40omidnetworkk
+vless://7fac0e66-13a0-443f-fd7a-8c0b027e4631@199.247.21.169:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@MsV2ray&sni=tm.MsV2ray.fun#%40omidnetworkk
+vless://3b14c21f-cfe8-4a89-92cf-ea563fe5eb3e@104.31.16.65:2053?path=%2F&security=tls&encryption=none&host=tel.RxV2ray.cfd&type=ws&sni=tel.RxV2ray.cfd#%40omidnetworkk
+vless://c20b75a9-8ab8-474c-ae01-56a311378796@104.31.16.65:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray&sni=tel.RxV2ray.cfd#%40omidnetworkk+Experience+the+speed+of+light.
+vless://c20b75a9-8ab8-474c-ae01-56a311378796@199.247.21.169:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray&sni=tel.RxV2ray.cfd#%40omidnetworkk+Experience+the+speed+of+light.
+vless://c20b75a9-8ab8-474c-ae01-56a311378796@199.247.21.169:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@RxV2ray&sni=tel.RxV2ray.cfd#%40omidnetworkk+Experience+the+speed+of+light.
+trojan://ID-TELGRAM-TEHRON98@tehron98-chanelemon.ddns.net:2083?mode=gun&security=tls&type=grpc&serviceName=ID-TELEGRAM-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98&sni=mnm.piyazJafari.cfd#%40omidnetworkk+Experience+the+speed+of+light.
