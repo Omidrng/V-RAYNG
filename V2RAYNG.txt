@@ -1,4 +1,1 @@
-135.181.89.127
-cKbk9MRvvV7k9Mb7gPvs
-OmidMahan@1388
-https://github.com/MHSanaei/3x-ui
+vless://665fc106-dc4d-47f2-a8d4-acc897f57050@salam.hostv1romid.sbs:4356?type=tcp&path=%2F&host=uplod.ir&headerType=http&security=none#OmidNetwork1-OmidNetwork%2FDaeiFarzad
