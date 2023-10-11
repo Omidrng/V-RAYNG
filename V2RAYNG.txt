@@ -1,1 +1,1 @@
-
+vless://ce97b601-adb6-4418-9aa1-73f49cfa56fc@dl2.hostv1romid.sbs:39593?type=tcp&path=%2F&host=khamenei.ir&headerType=http&security=reality&fp=chrome&pbk=Xao4UxIloy4SIJP46azUYzqQUcXXGbMRtbxAQhIrig0&sni=ftp.debian.org&sid=f1131e70&spx=%2F#OmidNetwork2-OmidNetwork%2FDaeiFarzadReal
